@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | rebeccafentonfriesen</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/avatar_icon.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Becca, a Mechanical Engineering PhD student working with Northwestern&amp;rsquo;s Surface Haptics research group. I currently work with variable friction displays, looking both at the underlying mechanisms of how to manipulate friction as well as how to use this technology to create compelling haptic experiences.&lt;/p&gt;
+
+&lt;p&gt;While my latest degree is in engineering, I spent several years pre-PhD working with neuroscientists on Brain Machine Interfaces. Observing the crippling consequences of lack of proprioceptive and tactile feedback during supposedly simple motor tasks informs and motivates my work today.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
