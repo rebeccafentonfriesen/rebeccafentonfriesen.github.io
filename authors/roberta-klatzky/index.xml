@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberta Klatzky | rebeccafentonfriesen</title>
+    <link>/authors/roberta-klatzky/</link>
+      <atom:link href="/authors/roberta-klatzky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roberta Klatzky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar_icon.jpg</url>
+      <title>Roberta Klatzky</title>
+      <link>/authors/roberta-klatzky/</link>
+    </image>
+    
+    <item>
+      <title>Roughness rendering by sinusoidal friction modulation: Perceived intensity and gradient discrimination</title>
+      <link>/publication/bodas2019roughness/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bodas2019roughness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

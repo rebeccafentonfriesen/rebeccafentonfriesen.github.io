@@ -2,8 +2,8 @@
   "name": "rebeccafentonfriesen",
   "short_name": "rebeccafentonfriesen",
   "lang": "en-us",
-  "theme_color": "hsl(339, 90%, 68%)",
-  "background_color": "hsl(339, 90%, 68%)",
+  "theme_color": "rgb(78, 42, 132)",
+  "background_color": "rgb(78, 42, 132)",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",

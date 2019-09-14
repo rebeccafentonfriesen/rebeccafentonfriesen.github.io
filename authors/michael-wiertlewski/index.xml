@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michaël Wiertlewski | rebeccafentonfriesen</title>
+    <link>/authors/michael-wiertlewski/</link>
+      <atom:link href="/authors/michael-wiertlewski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michaël Wiertlewski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar_icon.jpg</url>
+      <title>Michaël Wiertlewski</title>
+      <link>/authors/michael-wiertlewski/</link>
+    </image>
+    
+    <item>
+      <title>The contribution of air to ultrasonic friction reduction</title>
+      <link>/publication/friesen2017contribution/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/friesen2017contribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial squeeze film levitation modulates fingertip friction</title>
+      <link>/publication/wiertlewski2016partial/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wiertlewski2016partial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of damping in ultrasonic friction reduction</title>
+      <link>/publication/friesen2016role/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/friesen2016role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinspired artificial fingertips that exhibit friction reduction when subjected to transverse ultrasonic vibrations</title>
+      <link>/publication/friesen2015bioinspired/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/friesen2015bioinspired/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

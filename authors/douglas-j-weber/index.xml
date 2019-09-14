@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas J Weber | rebeccafentonfriesen</title>
+    <link>/authors/douglas-j-weber/</link>
+      <atom:link href="/authors/douglas-j-weber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Douglas J Weber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar_icon.jpg</url>
+      <title>Douglas J Weber</title>
+      <link>/authors/douglas-j-weber/</link>
+    </image>
+    
+    <item>
+      <title>Interfacing the somatosensory system to restore touch and proprioception: essential considerations.</title>
+      <link>/publication/weber2012interfacing/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/weber2012interfacing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

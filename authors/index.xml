@@ -5,12 +5,108 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar_icon.jpg</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Amukta Nayak</title>
+      <link>/authors/amukta-nayak/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/amukta-nayak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hong Z Tan</title>
+      <link>/authors/hong-z-tan/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/hong-z-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prachi Bodas</title>
+      <link>/authors/prachi-bodas/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/prachi-bodas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Fenton Friesen</title>
+      <link>/authors/rebecca-fenton-friesen/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rebecca-fenton-friesen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberta Klatzky</title>
+      <link>/authors/roberta-klatzky/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/roberta-klatzky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Edward Colgate</title>
+      <link>/authors/j-edward-colgate/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/j-edward-colgate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael A Peshkin</title>
+      <link>/authors/michael-a-peshkin/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-a-peshkin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberta L Klatzky</title>
+      <link>/authors/roberta-l-klatzky/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/roberta-l-klatzky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michaël Wiertlewski</title>
+      <link>/authors/michael-wiertlewski/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-wiertlewski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Douglas J Weber</title>
+      <link>/authors/douglas-j-weber/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/douglas-j-weber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lee E Miller</title>
+      <link>/authors/lee-e-miller/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/lee-e-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Friesen</title>
+      <link>/authors/rebecca-friesen/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/rebecca-friesen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -19,7 +115,7 @@
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Becca, a Mechanical Engineering PhD student working with Northwestern&amp;rsquo;s Surface Haptics research group. I currently work with variable friction displays, looking both at the underlying mechanisms of how to manipulate friction as well as how to use this technology to create compelling haptic experiences.&lt;/p&gt;
 
-&lt;p&gt;While my latest degree is in engineering, I spent several years pre-PhD working with neuroscientists on Brain Machine Interfaces. Observing the crippling consequences of lack of proprioceptive and tactile feedback during supposedly simple motor tasks informs and motivates my work today.&lt;/p&gt;
+&lt;p&gt;While my latest degree is in engineering, I spent several years before graduate school working with neuroscientists on Brain Machine Interfaces. Observing the crippling consequences of lack of proprioceptive and tactile feedback during supposedly simple motor tasks informs and motivates my work today.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,95 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>rebeccafentonfriesen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar_icon.jpg</url>
       <title>rebeccafentonfriesen</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Roughness rendering by sinusoidal friction modulation: Perceived intensity and gradient discrimination</title>
+      <link>/publication/bodas2019roughness/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bodas2019roughness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single pitch perception of multi-frequency textures</title>
+      <link>/publication/friesen2018single/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/friesen2018single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The contribution of air to ultrasonic friction reduction</title>
+      <link>/publication/friesen2017contribution/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/friesen2017contribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texture Characterization</title>
+      <link>/project/texture-project/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/project/texture-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Friction Modulation</title>
+      <link>/project/friction-project/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/project/friction-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Partial squeeze film levitation modulates fingertip friction</title>
+      <link>/publication/wiertlewski2016partial/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wiertlewski2016partial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of damping in ultrasonic friction reduction</title>
+      <link>/publication/friesen2016role/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/friesen2016role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bioinspired artificial fingertips that exhibit friction reduction when subjected to transverse ultrasonic vibrations</title>
+      <link>/publication/friesen2015bioinspired/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/friesen2015bioinspired/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain Machine Interfaces</title>
+      <link>/project/bmi-project/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/project/bmi-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interfacing the somatosensory system to restore touch and proprioception: essential considerations.</title>
+      <link>/publication/weber2012interfacing/</link>
+      <pubDate>Thu, 13 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/weber2012interfacing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
