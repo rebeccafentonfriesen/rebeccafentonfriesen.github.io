@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar_icon.jpg</url>
       <title>Projects</title>
@@ -13,20 +13,31 @@
     </image>
     
     <item>
-      <title>Texture Characterization</title>
+      <title>Haptic Perception</title>
       <link>/project/texture-project/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/project/texture-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <description>&lt;p&gt;Using friction modulated haptic screens, we can apply an essentially limitless number of friction force patterns on the fingertip. Varying these forces over space or time mimics the sensation of feeling actual textured surfaces with qualities such as &amp;ldquo;roughness&amp;rdquo; or &amp;ldquo;slipperiness&amp;rdquo;. However, we have very little sense of which features of the force signal translate to the greatest differences in perception, which textural characteristics are achievable using only friction forces, or how to purposely modify those characteristics.&lt;/p&gt;
+&lt;p&gt;My work has focused on the spectral properties of fine texture. This includes modifying various spectral features such as number and value of frequency components, the signal intensity, and different methods of injecting noise or spectral breadth. Using psychophysical tests with groups of users, such as adjustment, discrimination, and ratings tasks, I can determine which features are most salient, as well as their qualitative characteristics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related work&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(submitted) Friesen, R.F., Klatzky, R.L., Peshkin, M.A. and Colgate, J.E., “Building a navigable fine texture design space,” Submitted to Transactions on Haptics June 2020. arXiv:2006.07294 [cs.HC]&lt;/p&gt;
+&lt;p&gt;Bodas, P., Friesen R.F., Nayak A., Tan H.Z., and Klatzky, R. (2019, July). Roughness Rendering by Sinusoidal Friction Modulation: Perceived Intensity and Gradient Discrimination. In World Haptics Conference (WHC), 2019 IEEE.&lt;/p&gt;
+&lt;p&gt;Friesen, R.F., Klatzky, R.L., Peshkin, M.A. and Colgate, J.E. (2018, March). Single Pitch Perception of Multi-frequency Textures. Haptics Symposium (HAPTICS), 2018 IEEE. (pp. 290–295).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Friction Modulation</title>
+      <title>Haptic Rendering</title>
       <link>/project/friction-project/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>/project/friction-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <description>&lt;p&gt;There are several methods of rendering haptic effects on a flat touchscreen, including vibrotactile actuation, arrays of pins or pneumatically filled buttons, and more. Two methods used in my lab at Northwestern, ultrasonic friction reduction and electroadhesion, dynamically modify the friction level between a finger and the screen to create very localized and high bandwidth forces on a user&amp;rsquo;s fingertip.&lt;/p&gt;
+&lt;p&gt;My research looked in more depth at how ultrasonic friction reduction actually worked. We could control the slipperiness of the screen by modifying the amplitude of high frequency vibration (~20kHz) of the surface, but the effect was stronger on some fingers than others, and the underlying mechanisms of why this worked at all were not well understood. By systematically varying system properties such as artifical fingertip material and external air pressure, I could inform a model of the friction reduction effect that essentially consisted of the fingertip bouncing on a squeeze film of air.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Work&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Friesen, R. F., Wiertlewski, M., Peshkin, M. A., &amp;amp; Colgate, J. E. (2017, June). The contribution of air to ultrasonic friction reduction. In World Haptics Conference (WHC), 2017 IEEE. (pp. 517-522).&lt;/p&gt;
+&lt;p&gt;Friesen, R. F., Wiertlewski, M., &amp;amp; Colgate, J. E. (2016, April). The role of damping in ultrasonic friction reduction. In Haptics Symposium (HAPTICS), 2016 IEEE (pp. 167-172).&lt;/p&gt;
+&lt;p&gt;Wiertlewski, M., Friesen, R. F., &amp;amp; Colgate, J. E. (2016). Partial squeeze film levitation modulates fingertip friction. Proceedings of the National Academy of Sciences, 113(33), 9210-9215.&lt;/p&gt;
+&lt;p&gt;Friesen, R. F., Wiertlewski, M., Peshkin, M. A., &amp;amp; Colgate, J. E. (2015, June). Bioinspired artificial fingertips that exhibit friction reduction when subjected to transverse ultrasonic vibrations. In World Haptics Conference (WHC), 2015 IEEE (pp. 208-213).  Nominated for Best Paper Award&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +46,10 @@
       <link>/project/bmi-project/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       <guid>/project/bmi-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <description>&lt;p&gt;After finishing college, I worked for several years as a technician in a neural engineering lab. At that time, paralyzed patients could carefully move a screen cursor or robot arm in a desired direction using direct neural control from cortical arrays recording from approximately 100 motor neurons. However, movements were often painsakingly slow, shaky, and limited in their ability to generalize to other tasks. Users had to stare intently at the end effector they were trying to move, as they had zero sense of grasp, contact, or location in space.
+Providing sensation via cortical or even nerve ending stimulation was in its infancy; researchers were trying to ascertain whether stimulation could be felt at all, and effects were often described as &amp;ldquo;buzzy&amp;rdquo; or &amp;ldquo;unpleasant&amp;rdquo;. Working in this field highlighted for me not only the critical importance of sensory feedback in performing skilled movements, but also the challenging problem of making such feedback feel natural and good.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Work&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Weber, D. J., Friesen, R., &amp;amp; Miller, L. E. (2012). Interfacing the somatosensory system to restore touch and proprioception: essential considerations. Journal of Motor Behavior, 44(6), 403-418.&lt;/p&gt;
 </description>
     </item>
     
